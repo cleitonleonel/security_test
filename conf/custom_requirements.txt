@@ -1,0 +1,4 @@
+# Install command from requirements
+# command pip install -r conf/custom_requirements.txt --process-dependency-links
+https://github.com/melinuxsistemas/modules.core.security/zipball/master
+#https://github.com/melinuxsistemas/otma_core/zipball/master
